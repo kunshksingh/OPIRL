@@ -1,5 +1,5 @@
 # OPIRL
-Welcome to One Piece In Real Life! OPIRL is a project in order to bring the One Piece devil fruit power system to life, so anyone can enjoy stretching their arms with the Gomu Gomu No Mi in AR! 
+Welcome to One Piece In Real Life! OPIRL is a project in order to bring the One Piece devil fruit power system to life, so anyone can enjoy stretching their arms with the Gomu Gomu No Mi or creating earthquakes with the Gura Gura No Mi in AR! 
 
 OPIRL is built using Unity3D for HoloLens2. Since HoloLens2 is Microsoft based, only Windows currently supported.
 OPIRL uses MRTK 2.8.0.0 and FMOD 2.02.07.
