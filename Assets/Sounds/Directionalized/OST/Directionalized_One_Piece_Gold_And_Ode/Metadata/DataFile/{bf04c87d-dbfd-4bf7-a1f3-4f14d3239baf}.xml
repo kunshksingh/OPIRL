@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{bf04c87d-dbfd-4bf7-a1f3-4f14d3239baf}">
+		<property name="assetPath">
+			<value>Devil Fruit FX/Gura Gura No Mi Long.mp3.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{58b09e8d-6b36-48be-a552-3ddce847125d}</destination>
+		</relationship>
+	</object>
+</objects>

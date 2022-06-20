@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{4340c6c1-3d77-49af-a3f9-842bcdb221a5}">
+		<property name="assetPath">
+			<value>OST/One_Piece_Soundtrack_-_Gold_And_Ode_(getmp3.pro).mp3.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{58b09e8d-6b36-48be-a552-3ddce847125d}</destination>
+		</relationship>
+	</object>
+</objects>

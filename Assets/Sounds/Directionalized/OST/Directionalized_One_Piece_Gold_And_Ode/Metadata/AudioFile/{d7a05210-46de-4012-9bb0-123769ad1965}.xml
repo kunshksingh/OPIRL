@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{d7a05210-46de-4012-9bb0-123769ad1965}">
+		<property name="assetPath">
+			<value>02One_Piece_Soundtrack_-_Gold_And_Ode_(getmp3.pro).mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>150.24000000000001</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{58b09e8d-6b36-48be-a552-3ddce847125d}</destination>
+		</relationship>
+	</object>
+</objects>

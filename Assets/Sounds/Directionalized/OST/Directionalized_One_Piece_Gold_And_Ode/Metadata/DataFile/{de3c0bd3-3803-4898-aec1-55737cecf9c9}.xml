@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{de3c0bd3-3803-4898-aec1-55737cecf9c9}">
+		<property name="assetPath">
+			<value>Devil Fruit FX/Gura Gura no Mi (Crack) Sound Effect.mp3.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{58b09e8d-6b36-48be-a552-3ddce847125d}</destination>
+		</relationship>
+	</object>
+</objects>

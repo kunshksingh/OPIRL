@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 00479a89e8c93b14dab0d2427caf38e7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - MusicMenu: {instanceID: 0}
+  - DevilFruitsMenu: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
