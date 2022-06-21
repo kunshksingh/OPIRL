@@ -23,7 +23,7 @@ After Steps 4-6, the top bar of your OPIRL.sln should look like this:
 Changelog:
 
 v0.0.3 
-* Modified MRTK2 Profile in order to hide boundaries (bugged)
+* Modified MRTK2 Profile in order to hide boundaries 
 * Added small spheres for joint tracking based on MRTK2
  
 v0.0.2 (Unreleased)
