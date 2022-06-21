@@ -16,7 +16,7 @@ After Steps 4-6, the top bar of your OPIRL.sln should look like this:
 ![image](https://user-images.githubusercontent.com/30392769/174676195-dd321194-96a3-4078-a67c-c94574a318ff.png)
 
 * Step 7: Hit the green play button with no color fill (directly right of "Device")
-* Step 8: Once the download finishes, go to "All Apps" and search for OPIRL
+* Step 8: Once the download finishes, go to "All Apps" on your Hololens2 and search for OPIRL
 * Step 9: Enjoy :)
 
 
