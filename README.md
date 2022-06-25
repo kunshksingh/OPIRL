@@ -2,10 +2,13 @@
 Welcome to One Piece In Real Life! OPIRL is a project in order to bring the One Piece devil fruit power system to life, so anyone can enjoy stretching their arms with the Gomu Gomu No Mi or creating earthquakes with the Gura Gura No Mi in AR! 
 
 OPIRL is built using Unity3D for HoloLens2. Since HoloLens2 is Microsoft based, **only Windows currently supported**.
-OPIRL uses MRTK 2.8.0.0 and FMOD 2.02.07.
+OPIRL uses Unity 2021.3.3f1, MRTK 2.8.0.0, and FMOD 2.02.07.
 
 How to install OPIRL onto HoloLens:
-* Step 1: Download latest build of OPIRL onto a Windows computer/laptop **and** Visual Studio
+* Step 1: Download latest release of OPIRL onto a Windows computer/laptop **and** Visual Studio
+
+_If you want to use the latest build rather than the latest release, then open project in Unity, use a Universal Build Platform with ARM, and then follow remaining steps_
+
 * Step 2: Physically connect your Hololens2 using USB-C port
 * Step 3: Extract build (if zipped) and open OPIRL.sln
 * Step 4: Change build type to "Master"
@@ -21,8 +24,7 @@ After Steps 4-6, the top bar of your OPIRL.sln should look like this:
 
 
 Changelog:
-
-v0.0.3 
+v0.0.3 (Unreleased)
 * Modified MRTK2 Profile in order to hide boundaries 
 * Added small spheres for joint tracking based on MRTK2
  
